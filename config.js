@@ -12,7 +12,7 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // ES ➜ Si desea recibir reportes debe de usar los tres parámetros (Número, nombre y true)
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
-global.owner = [
+global.owner = ['528130874505']
 ['447700168473', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
 ['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true],
 ['593968585383'],
@@ -32,7 +32,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 //  es = Español      id = Bahasa Indonesia       ar = عرب
 //  en = English      pt = Português              de = Deutsch
 //  it = Italiano
-global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
+global.lenguajeGB = es   //<-- Predeterminado en idioma Español 
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
